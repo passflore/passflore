@@ -1,0 +1,70 @@
+<html>
+<head>
+<title>Passflore - Florería en Durango</title>
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+<div id="contenedor">
+<header>
+<div class="encabezado">
+<img src="logo.jpg" alt="Logo de Passflore">
+<h1>𝓟𝓪𝓼𝓼𝓯𝓵𝓸𝓻𝓮</h1>
+</div>
+</header>
+<nav>
+<p>Especialistas en arreglos florales y regalos personalizados en Durango.</p>
+<a href="#productos">Productos</a>
+<a href="#nosotros">Sobre Nosotros</a>
+<a href="#contacto">Contacto</a>
+<a href="https://www.instagram.com/passflore" target="_blank">Instagram</a>
+<a href="https://www.facebook.com/passflore" target="_blank">Facebook</a>
+</nav>
+<section class="principal">
+<article>
+<h2>¿Por qué elegir Passflore?</h2>
+<ul>
+<li>Atención personalizada en cada pedido</li>
+<li>Entrega rápida en Durango y alrededores</li>
+<li>Regalos que hablan con el corazón</li>
+</ul>
+<div class="redes-sociales">
+<h3>Síguenos en redes:</h3>
+<a href="https://www.instagram.com/passflore" target="_blank"> <img src="icono-instagram.png" alt="Instagram" width="30"> </a>
+<a href="https://www.facebook.com/passflore" target="_blank"> <img src="icono-facebook.png" alt="Facebook" width="30"> </a>
+</div>
+</article>
+<aside id="productos">
+<h2>Productos y precios</h2>
+<ul>
+<li><img src="arreglo-romantico.jpg" alt="Arreglo romántico" width="50"> 🌹 Arreglo romántico - <strong>$350</strong></li>
+<li><img src="ramo-primavera.jpg" alt="Ramo primavera" width="50"> 💐 Ramo primavera - <strong>$280</strong></li>
+<li><img src="taza-personalizada.jpg" alt="Taza personalizada" width="50"> ☕ Taza personalizada - <strong>$150</strong></li>
+<li><img src="almohada-frase.jpg" alt="Almohada con frase" width="50"> 🛏️ Almohada con frase - <strong>$200</strong></li>
+<li><img src="caja-sorpresa.jpg" alt="Caja sorpresa" width="50"> 🎁 Caja sorpresa - <strong>$450</strong></li>
+<li><img src="globo-personalizado.jpg" alt="Globo personalizado" width="50"> 🎈 Globo personalizado - <strong>$120</strong></li>
+</ul>
+</aside>
+</section>
+<section class="publicidad">
+<h2>🌸 Promoción del Mes 🌸</h2>
+<img src="publicidad.jpg" alt="Promoción de la florería">
+</section>
+<section class="nosotros" id="nosotros">
+<h2>Sobre Nosotros</h2>
+<p>Passflore nació en el corazón de Durango con la intención de llenar cada momento especial con detalles inolvidables. Con más de 5 años de experiencia, nos dedicamos a crear arreglos florales, regalos personalizados y experiencias únicas para nuestros clientes.</p>
+</section>
+<section class="contacto" id="contacto">
+<h2>Contáctanos</h2>
+<p>📍 Dirección: Calle Primavera #456, Centro, Durango, Dgo.</p>
+<p>📞 Teléfono: 618-123-4567</p>
+<p>📧 Correo: <a href="mailto:contacto@passflore.mx">contacto@passflore.mx</a></p>
+</section>
+<footer>
+<p>© 2025 Passflore - Todos los derechos reservados.</p>
+<p>Desarrollado por Anais Ramírez Reyes - Grupo 604 TM</p>
+<div class="footer-redes">
+<a href="https://www.instagram.com/passflore" target="_blank"> <img src="icono-instagram.png" alt="Instagram" width="25"> </a>
+<a href="https://www.facebook.com/passflore" target="_blank"> <img src="icono-facebook.png" alt="Facebook" width="25"> </a> 
+<a href="mailto:contacto@passflore.mx"> <img src="icono-correo.png" alt="Correo" width="25"> </a>
+</div>
+</footer>
